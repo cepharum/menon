@@ -1,0 +1,12 @@
+{
+	"name": "menon",
+	"version": "0.0.1",
+	"description": "An express extension toolkit for rapdily developing dedicated web applications",
+	"dependencies": {
+		"bluebird": "*",
+		"qs": "*"
+	},
+	"optionalDependencies": {
+		"sequelize": "*"
+	}
+}
